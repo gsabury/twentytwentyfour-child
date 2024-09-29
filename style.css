@@ -1,0 +1,20 @@
+/*
+Theme Name:   Twenty Twenty-four Child
+Theme URI:    https://wordpress.org/themes/twentytwentyfour/
+Description:  Twenty Twenty-four child theme
+Author:       WordPress.org
+Author URI:   https://wordpress.org/
+Template:     twentytwentyfour
+Version:      1.0.0
+Text Domain:  twentytwentyfourchild
+*/
+#menu-primary-menu{
+    list-style: none;
+}
+#menu-primary-menu li{
+        display: inline-block;
+}
+#menu-primary-menu li a{
+    padding: 0 15px;
+    text-decoration: none;
+}
